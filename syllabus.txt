@@ -1,2 +1,2 @@
 Day 1 morning: bash command line
-
+Day 1 afternoon: into to Python
